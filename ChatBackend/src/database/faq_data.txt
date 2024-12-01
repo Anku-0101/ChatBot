@@ -1,0 +1,18 @@
+{
+    "onboarding": {
+        "How do I start the onboarding process?": "To start onboarding, please visit our onboarding portal and fill in the required details.",
+        "What documents do I need for onboarding?": "You'll need a government-issued ID, proof of address, and your bank details."
+    },
+    "test": {
+        "When is the next test scheduled?": "The next test is scheduled for next Monday at 10:00 AM.",
+        "How can I reschedule my test?": "You can reschedule your test through our online portal, under the 'Test Schedule' section."
+    },
+    "application": {
+        "How do I apply for the program?": "To apply, please visit our application page and submit the online form.",
+        "What is the deadline for applications?": "The application deadline is the 30th of this month."
+    },
+    "eligibility": {
+        "What are the eligibility criteria?": "To be eligible, you need to have at least 2 years of professional experience and a bachelor's degree.",
+        "Can I apply if I don't meet all the eligibility requirements?": "In some cases, exceptions can be made. Please contact our support team for further clarification."
+    }
+}
