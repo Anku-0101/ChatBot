@@ -1,1 +1,103 @@
-{"986145ec-a1a2-4cb5-aaff-2919581880cc": {"user_id": "986145ec-a1a2-4cb5-aaff-2919581880cc", "messages": [{"sender": "bot", "content": "I'm sorry, I couldn't find an answer to that.", "message_id": "a7cbc9d5-6606-46db-910f-6d174a6e5705", "timestamp": "2024-12-01 19:54:56.911041"}, {"sender": "user", "content": "What documents do I need for onboarding?", "message_id": "23da6720-53f7-4810-aeea-6cd568bdaab4", "timestamp": "2024-12-01 19:54:56.911041"}, {"sender": "bot", "content": "You'll need a government-issued ID, proof of address, and your bank details.", "message_id": "96771fc1-9175-4567-a6fc-b9d78f544049", "timestamp": "2024-12-01 19:54:56.911041"}]}, "af1b68b0-19e5-48d2-bcb0-ee4301ab64ad": {"user_id": "af1b68b0-19e5-48d2-bcb0-ee4301ab64ad", "messages": [{"sender": "bot", "content": "Testing from react", "message_id": "d0e79f44-d40e-46da-920a-5546ceda2f90", "timestamp": "2024-12-01 21:03:11.342043"}, {"sender": "user", "content": "How do I start the onboarding process?", "message_id": "8adc53f7-6475-4d3f-9e0c-c155b092429f", "timestamp": "2024-12-01 21:03:11.342043"}, {"sender": "bot", "content": "To start onboarding, please visit our onboarding portal and fill in the required details.", "message_id": "8ebf6dd1-1c03-4507-820c-6fc9b3d28b4a", "timestamp": "2024-12-01 21:03:11.342043"}, {"sender": "user", "content": "What documents do I need for onboarding?", "message_id": "cca6a1ff-90bd-4493-817c-22b2c79cf514", "timestamp": "2024-12-01 22:53:36.956032"}, {"sender": "bot", "content": "You'll need a government-issued ID, proof of address, and your bank details.", "message_id": "a7001bc7-9812-4218-b9a0-1a25f24a3564", "timestamp": "2024-12-01 22:53:36.956032"}]}}
+{
+    "098ea7c0-bdc8-4d9e-999d-40ce889c6b18": {
+        "user_id": "098ea7c0-bdc8-4d9e-999d-40ce889c6b18",
+        "messages": [
+            {
+                "sender": "user",
+                "content": "Hi",
+                "message_id": "88fd26cd-6461-40ff-a0dc-1e015e4c1657",
+                "timestamp": "2024-12-02 00:18:53.096350"
+            },
+            {
+                "sender": "bot",
+                "content": "I'm sorry, I couldn't find an answer to that.",
+                "message_id": "8c687d2d-f457-497d-8d53-84d1f59c48ee",
+                "timestamp": "2024-12-02 00:18:53.096350"
+            },
+            {
+                "sender": "user",
+                "content": "How do I start the onboarding process?",
+                "message_id": "952f8d6a-ce78-491c-b299-e77272095617",
+                "timestamp": "2024-12-02 00:18:53.096350"
+            },
+            {
+                "sender": "bot",
+                "content": "To start onboarding, please visit our onboarding portal and fill in the required details.",
+                "message_id": "d45637ec-3fca-4945-8ff5-68c78d03b2eb",
+                "timestamp": "2024-12-02 00:18:53.096350"
+            },
+            {
+                "sender": "user",
+                "content": "How do I apply for the program?",
+                "message_id": "12d5631a-5ee1-48d5-81b6-e3983f093c44",
+                "timestamp": "2024-12-02 00:18:53.096350"
+            },
+            {
+                "sender": "bot",
+                "content": "To apply, please visit our application page and submit the online form.",
+                "message_id": "c43695ad-5384-41ff-9e41-7e323e48f247",
+                "timestamp": "2024-12-02 00:18:53.096350"
+            },
+            {
+                "sender": "user",
+                "content": "How do I apply for the program?",
+                "message_id": "f3f93df9-b8fb-4991-a171-0fc21e731386",
+                "timestamp": "2024-12-02 00:26:17.090395"
+            },
+            {
+                "sender": "bot",
+                "content": "To apply, please visit our application page and submit the online form.",
+                "message_id": "a470e1a0-716b-4ffa-b458-736b9b3c6ad7",
+                "timestamp": "2024-12-02 00:26:17.090395"
+            },
+            {
+                "sender": "user",
+                "content": "How do I start the onboarding process?",
+                "message_id": "a2c6f665-efcc-4ae2-a684-6bbaa6114964",
+                "timestamp": "2024-12-02 00:34:13.675037"
+            },
+            {
+                "sender": "bot",
+                "content": "To start onboarding, please visit our onboarding portal and fill in the required details.",
+                "message_id": "10fbc4b9-0ddf-4b7f-bebb-b6923bf9fbf1",
+                "timestamp": "2024-12-02 00:34:13.675037"
+            },
+            {
+                "sender": "user",
+                "content": "How do I start the onboarding process?",
+                "message_id": "d404fce0-5178-48fa-8714-d078eb1d50b8",
+                "timestamp": "2024-12-02 00:34:13.675037"
+            },
+            {
+                "sender": "bot",
+                "content": "I'm sorry, I couldn't find an answer to that.",
+                "message_id": "60bd6f08-e2c7-499c-8b43-6ae371ed0b7b",
+                "timestamp": "2024-12-02 00:34:13.675037"
+            },
+            {
+                "sender": "user",
+                "content": "How do I start the onboarding process?",
+                "message_id": "e2755b33-3566-485c-a556-7541b8501079",
+                "timestamp": "2024-12-02 00:34:13.675037"
+            },
+            {
+                "sender": "bot",
+                "content": "I'm sorry, I couldn't find an answer to that.",
+                "message_id": "7ccd9629-01f6-414b-98f8-e960e3de08db",
+                "timestamp": "2024-12-02 00:34:13.675037"
+            },
+            {
+                "sender": "user",
+                "content": "How do I apply for the program?",
+                "message_id": "5baef125-10c0-4f69-a07d-f8daf903817a",
+                "timestamp": "2024-12-02 00:34:13.675037"
+            },
+            {
+                "sender": "bot",
+                "content": "To apply, please visit our application page and submit the online form.",
+                "message_id": "9e71f325-f0b9-4fc3-af59-5f009f638f1b",
+                "timestamp": "2024-12-02 00:34:13.675037"
+            }
+        ]
+    }
+}

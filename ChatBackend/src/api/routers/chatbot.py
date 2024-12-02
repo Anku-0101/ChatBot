@@ -12,14 +12,12 @@ async def chat(query: Input):
     user_id = query.user_id
     category = query.context
     faq_data = read_faq_data()
-
     response = None
-    for category, questions in faq_data.items():
-        for question, answer in questions.items():
-            if question.lower() in user_input:
-                response = answer
-                break
-        if response:
+
+    questions = faq_data[category.lower()]
+    for question, answer in questions.items():
+        if question.lower() in user_input.lower():  # Case-insensitive comparison
+            response = answer
             break
 
     # Create the user-bot exchange
